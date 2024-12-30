@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-subtitle: Aditya Karthik Saravanakumar
+subtitle:
 sitemap:
   priority: 0.9
 ---
