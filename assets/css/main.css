@@ -42,10 +42,21 @@
       font-weight: 400; }
 
   strong {
+    font-weight: medium;
     color: #16a085; }
 
+  .boldtext {
+    font-weight: bold;}
+
+  .justifytext {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    line-height: 1.5; /* Optional */
+    font-size: 16px; /* Optional */ }
+
   .wrapper {
-    max-width: 800px;
+    max-width: 900px;
     margin: 60px auto; }
 
 /* =Header *//*************************************************************/
@@ -441,8 +452,4 @@
   .go-home {
     text-align: center; }
 
-  .justify-text {
-    text-align: justify !important; 
-    width: 100%;
-  }
 
