@@ -1,4 +1,12 @@
 <h1 class="page-title">
 <div class="page-title__text">{{ page.title }}</div>
-<div class="page-title__subtitle">{{ page.subtitle }}</div>
+<br>
+<div class="page-title__subtitle">
+  {% for word in page.subtitle %}
+    <span>{{ word }}</span>
+    {% unless forloop.last %}
+      <span class="separator">|</span>
+    {% endunless %}
+  {% endfor %}
+</div>
 </h1>

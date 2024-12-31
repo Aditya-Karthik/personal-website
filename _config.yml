@@ -1,7 +1,7 @@
 # Site settings
 title: Aditya K Saravanakumar
 description: >
-  PhD Candidate and Researcher | MIT Mechanical Engineering
+  PhD Candidate | MIT CCSE and Mechanical Engineering
 
 baseurl: "/~adityaks" # the subpath of your site, e.g. /blog/
 url: "https://www.mit.edu" # the base hostname & protocol for your site

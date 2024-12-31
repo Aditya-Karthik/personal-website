@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Projects
-# subtitle: Select ramblings of Pudhina
+subtitle:
+    - Ocean Modeling 
+    - Computational Fluid Dynamics 
+    - Numerical Linear Algebra
+    - Stochastic Modeling
+    - Machine Learning
 ---
 
 <div>

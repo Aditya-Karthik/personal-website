@@ -8,7 +8,13 @@
 
   a {
     color: #57A;
-    font-weight: bold;
+    font-weight: 400;
+    text-decoration: none; }
+
+  b {
+    color: #C3C3C3;
+    font-weight: 400;
+    font-size: 115%;
     text-decoration: none; }
 
   p, ul, ol, dl {
@@ -42,7 +48,7 @@
       font-weight: 400; }
 
   strong {
-    font-weight: medium;
+    font-weight: 400;
     color: #16a085; }
 
   .boldtext {
@@ -68,7 +74,7 @@
 
   .logo {
     font-size: 300%;
-    font-weight: 700;
+    font-weight: 400;
     color: #16a085;
     display: block; }
 
@@ -105,13 +111,24 @@
     text-align: center; }
 
   .page-title__text {
-    font-weight: 700;
+    font-weight: 400;
     font-size: 150%; }
 
   .page-title__subtitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
     font-weight: 400;
-    font-size: 75%;
-    color: #828282; }
+    font-size: 60%;
+    color: #C3C3C3; }
+
+  .separator {
+    display: flex;
+    align-items: center;
+    height: 1.5em;
+    font-size: 200%;
+    line-height: 1.5; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {

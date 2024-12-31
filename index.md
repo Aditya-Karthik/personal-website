@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-subtitle:
+title: Hello!
+# subtitle: PhD Candidate in Computational Science and Mechanical Engineering at MIT
 sitemap:
   priority: 0.9
 ---
