@@ -1,24 +1,16 @@
 ---
 layout: page
 title: Résumé
-# subtitle: My research focuses on developing high-order finite element schemes for efficient non-hydrostatic ocean modeling. I develop C++ and Python code to carry out large-scale simulations of ocean dynamics on high-performance architecture frameworks. I am currently looking for Summer 2025 internship opportunities.
+subtitle:
+    - Finite Element Methods
+    - Mathematical Modeling
+    - High-Performance Computing
+    - Fluid Dynamics
+    - Machine Learning
 ---
 
 <span style="float: right; "><a href="{{ '/assets/pdf/resume_saravanakumar.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
-
-## **RESEARCH INTRESTS**
-<div class="justifytext">
-  <span>Numerical Analysis</span>
-  <span>|</span>
-  <span>Mathematical Modeling</span>
-  <span>|</span>
-  <span>Finite Element Methods</span>
-  <span>|</span>
-  <span>High-Performance Computing</span>
-  <span>|</span>
-  <span>Machine Learning</span>
-</div>
 
 ## **PROGRAMMING LANGUAGES AND SIMULATION FRAMEWORKS**
 <div class="justifytext">
@@ -47,8 +39,7 @@ title: Résumé
 
 ## **EDUCATION**
 
-<span class="boldtext"> Doctor of Philosophy (PhD), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">May 2023 - Present</span></span>  
-
+<span class="boldtext"> Doctor of Philosophy (PhD), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">May 2023 - Present</span></span> 
 <p style="line-height: 1.5;">Major : Scientific Computing and Mechanical Engineering<span style="float: right; "><i>GPA: 5.00/5.00</i></span><br>Minor : Machine Learning</p>
  
 <span class="boldtext"> Master of Science (SM), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">Sep 2021 - May 2023</span></span>  
@@ -84,4 +75,4 @@ Undergraduate Research Project | Guide: Prof. [Sabareesh G. Rajasekharan](https:
 <span class="boldtext">Magnetohydrodynamic Simulations of Flow in Induction Pumps</span><span style="float: right; "><span class="boldtext">Indira Gandhi Center for Atomic Research</span></span>  
 Research Intern (Thermal Hydraulics Division) | Guide: Dr. [Kumaresan Natesan](https://www.researchgate.net/profile/Kumaresan-Natesan)<span style="float: right; ">*May 2019 - Jul 2019*</span>
 
-<p style="line-height: 1.5; text-align: justify">Simulated MHD flows by coupling Navier-Stokes and Maxwell’s equations in COMSOL. Validated the method with Hunt’s bench- mark laminar solution and conducted preliminary simulations for Annular Linear Induction Pumps used in fast breeder reactors.</p>
+<p style="line-height: 1.5; text-align: justify">Simulated MHD flows by coupling Navier-Stokes and Maxwell’s equations in COMSOL. Validated the method with Hunt’s benchmark laminar solution and conducted preliminary simulations for Annular Linear Induction Pumps used in fast breeder reactors.</p>
