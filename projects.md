@@ -9,27 +9,24 @@ subtitle:
     - Machine Learning
 ---
 
-<div>
-{% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
-{% for category in postsCategory %}
-<h4 class="post-teaser__month">
-<strong>
-{% if category.name %} 
-- - - - -  {{ category.name }} - - - - - 
-{% else %} 
-{{ Print }} 
+<div class="projects-list">
+{% assign projCategory = site.projects | group_by_exp:"project", "project.categories"  %}
+
+{% for category in projCategory %}
+{% if category.name %}
+  <h2><a>{{ category.name }}</a></h2>
+{% else %}
+  <p>{{ Print }}</p>
 {% endif %}
-</strong>
-</h4>
-<ul class="list-posts">
-{% for post in category.items %}
-<li class="post-teaser">
-<a href="{{ post.url | prepend: site.baseurl }}">
-<span class="post-teaser__title">{{ post.title }}</span>
-<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-</a>
-</li>
+
+{% for project in category.items %}
+    <div class="project-entry">
+      <h2>
+        <strong>{{ project.title }}</strong>
+      </h2>
+      <p>{{ project.content }}</p>
+    </div>
 {% endfor %}
-</ul>
+<br>
 {% endfor %}
 </div>

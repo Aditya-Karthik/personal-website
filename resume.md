@@ -9,10 +9,11 @@ subtitle:
     - Machine Learning
 ---
 
-<span style="float: right; "><a href="{{ '/assets/pdf/resume_saravanakumar.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/pdf/resume_saravanakumar.pdf' | prepend: site.baseurl }}"><strong><i class="fas fa-save"></i>     Download as PDF</strong></a> </span>
 <br>
 
-## **PROGRAMMING LANGUAGES AND SIMULATION FRAMEWORKS**
+<h2><a>Programming Languages and Simulation Frameworks</a></h2>
+
 <div class="justifytext">
   <span>C++</span>
   <span>|</span>
@@ -37,9 +38,9 @@ subtitle:
   <span>SolidWorks</span>
 </div>
 
-## **EDUCATION**
+<h2><a>Education</a></h2>
 
-<span class="boldtext"> Doctor of Philosophy (PhD), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">May 2023 - Present</span></span> 
+<span class="boldtext"> Doctor of Philosophy (PhD), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">May 2023 - Present</span></span>  
 <p style="line-height: 1.5;">Major : Scientific Computing and Mechanical Engineering<span style="float: right; "><i>GPA: 5.00/5.00</i></span><br>Minor : Machine Learning</p>
  
 <span class="boldtext"> Master of Science (SM), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">Sep 2021 - May 2023</span></span>  
@@ -48,7 +49,7 @@ Major : Computatinoal Science and Engineering<span style="float: right; ">*GPA: 
 <span class="boldtext">Bachelor of Engineering (BE), Birla Institute of Technology and Science, Pilani</span><span style="float: right; "><span class="boldtext">Sep 2017 - May 2021</span></span>  
 Major : Mechanical Engineering<span style="float: right; ">*GPA: 9.78/10.00*</span>  
 
-## **RESEARCH EXPERIENCE**
+<h2><a>Research Experience</a></h2>
 
 <span class="boldtext">Development of an Adaptive Locally-Nonhydrostatic Ocean Model</span><span style="float: right; "><span class="boldtext">Massachusetts Institute of Technology</span></span>  
 Graduate Research Project | Guide: Prof. [Pierre Lermusiaux](https://meche.mit.edu/people/faculty/pierrel@mit.edu)<span style="float: right; ">*Sep 2021 - Ongoing*</span>
@@ -60,7 +61,7 @@ Bachelor Thesis | Guide: Prof. [Manuel Torrilhon](https://www.acom.rwth-aachen.d
 
 <p style="line-height: 1.5; text-align: justify">Studied the stability of a FEniCS-based Discontinuous Galerkin FEM solver that solves the linearized regularized 13 (R13) moment equations to study non-equilibrium gas dynamics problems. Extended solver to accommodate non-linear conservation equations.</p>
 
-<span class="boldtext">Numerical Investigation of the Flapping Dynamics of Multi-Layered Plates</span><span style="float: right; "><span class="boldtext">Birla Institute of Technology and Science</span></span>  
+<span class="boldtext">Numerical Investigation of Flapping Dynamics of Multi-Layered Plates</span><span style="float: right; "><span class="boldtext">Birla Institute of Technology and Science</span></span>  
 Undergraduate Research Project | Guide: Prof. [Pardha S. Gurugubelli](https://www.bits-pilani.ac.in/hyderabad/pardha-saradhi-gurugubelli-venkata/) <span style="float: right; ">*Feb 2020 - May 2021*</span>
 
 <p style="line-height: 1.5; text-align: justify">Employed a MATLAB-based finite element method code to study fluid-structure interaction dynamics of multi-layered plates flap- ping in a uniform flow. Enhanced solver to allow coupling between high-order fluid elements and low-order structural elements.</p>
@@ -70,9 +71,37 @@ Undergraduate Research Project | Guide: Prof. [Sabareesh G. Rajasekharan](https:
 
 <p style="line-height: 1.5; text-align: justify">Optimized building design for the LIGO India observatory to minimize wind load and vibrations through corner modification and windbreaks. Executed 3D Detached Eddy Simulations on ANSYS FLUENT to capture turbulence at high Reynolds number regimes.</p>
 
-## **INDUSTRY EXPERIENCE** 
+<h2><a>Industry Experience</a></h2>
 
 <span class="boldtext">Magnetohydrodynamic Simulations of Flow in Induction Pumps</span><span style="float: right; "><span class="boldtext">Indira Gandhi Center for Atomic Research</span></span>  
 Research Intern (Thermal Hydraulics Division) | Guide: Dr. [Kumaresan Natesan](https://www.researchgate.net/profile/Kumaresan-Natesan)<span style="float: right; ">*May 2019 - Jul 2019*</span>
 
 <p style="line-height: 1.5; text-align: justify">Simulated MHD flows by coupling Navier-Stokes and Maxwell’s equations in COMSOL. Validated the method with Hunt’s benchmark laminar solution and conducted preliminary simulations for Annular Linear Induction Pumps used in fast breeder reactors.</p>
+
+<h2><a>Publications</a></h2>
+
+Saravanakumar, A. K., C. Foucart, C. Mirabito, P. J. Haley Jr., and P. F. J. Lermusiaux (2025). “An Adaptive High-Order Locally-Non- Hydrostatic Ocean Model”. To be submitted to <i>Ocean Modeling</i>
+
+Saravanakumar, A. K. (2023). “Towards Coupled Nonhydrostatic-Hydrostatic Hybridizable Discontinuous Galerkin Method”. <i>SM thesis</i> Massachusetts Institute of Technology, Computational Science and Engineering.
+
+Saravanakumar, A. K., K. Supradeepan, et al. (2021). “A numerical study on flapping dynamics of a flexible two-layered plate in a uniform flow”. <i>Physics of Fluids</i> 33.1, p. 017108. ISSN: 1070-6631. DOI: 10.1063/5.0033049.
+
+Vishwanath, N., A. K. Saravanakumar, et al. (2022). “3D Numerical investigation of a rounded corner square cylinder for supercritical flows”. <i>Wind and Structures</i> 35.1, pp. 55–66. ISSN: 1226-6116. DOI: 10.12989/was.2022.35.1.055.
+
+Brahmini Priya, P. V., A. K. Saravanakumar, et al. (2023). “Numerical Analysis of Two-Degrees of Freedom Vortex-Induced Vibra- tions of an Elastically Mounted Circular Cylinder Placed Very Close to a Wall”. <i>Sub-Judice</i> DOI: 10.2139/ssrn.4470199.
+
+<h2><a>Presentations</a></h2>
+
+Saravanakumar, A. K., C. Foucart, C. Mirabito, P. J. Haley, and P. F. Lermusiaux (2024a). “Adaptive Nonhydrostatic-Hydrostatic Hybridizable Discontinuous Galerkin Ocean Solver”. <i>Ocean Sciences Meeting</i>, New Orleans, Louisiana, 2024. AGU.
+
+Saravanakumar, A. K., C. Foucart, C. Mirabito, P. J. Haley, and P. F. Lermusiaux (2024b). “An Adaptive High Order Locally-Nonhydrostatic Ocean Solver”. <i>Mathematics of Planet Earth</i>, Portland, Oregan, 2024. SIAM.
+
+<h2><a>Awards</a></h2>
+
+<span class="boldtext">DAAD WISE 2020 Fellowship</span>
+
+<p style="line-height: 1.5; text-align: justify">Awarded to pursue a fully funded 12-week internship at RWTH Aachen University</p>
+
+<span class="boldtext">BITS Pilani Merit Scholarship</span>
+
+<p style="line-height: 1.5; text-align: justify">Full tuition waiver awarded to students within the top 1% in terms of GPA within a batch of 1100 candidates.</p>
