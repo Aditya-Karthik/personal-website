@@ -25,6 +25,11 @@
     display: block;
     max-width: 100%; }
 
+  #proj-img {
+    float: left;
+    width: 40%;
+    margin-right: 20px; }
+
   blockquote {
     letter-spacing: 3px;
     margin: 0px;
@@ -52,7 +57,9 @@
     color: #16a085; }
 
   .boldtext {
-    font-weight: bold;}
+    color: #16a085;
+    font-size: 105%;
+    font-weight: 400;}
 
   .justifytext {
     display: flex;
@@ -197,8 +204,8 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
-    width: 50%;
+    border-radius: 10%;
+    width: 40%;
     height: auto;
     margin: auto;
     margin-bottom: 3%;
@@ -206,6 +213,7 @@
 
   #describe-text {
       display: block;
+      font-size: 120%;
       text-align: center;
       width: 100%; }
 

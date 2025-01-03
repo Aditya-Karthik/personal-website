@@ -11,6 +11,7 @@ author:
   github: Aditya-Karthik
   linkedin: adityasaravanakumar
   email: adityaks@mit.edu
+  scholar: 2YdDB_YAAAAJ
 
 # Syntax highlighting
 highlightstyle: 'agate'
@@ -19,3 +20,10 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+
+# Project Descriptions
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
