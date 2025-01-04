@@ -7,7 +7,7 @@
     background-color: #282828; }
 
   a {
-    color: #57A;
+    color: #4DA6FF;
     font-weight: 400;
     text-decoration: none; }
 
@@ -54,10 +54,10 @@
 
   strong {
     font-weight: 400;
-    color: #16a085; }
+    color: #48E5C2; }
 
   .boldtext {
-    color: #16a085;
+    color: #48E5C2;
     font-size: 105%;
     font-weight: 400;}
 
@@ -82,7 +82,7 @@
   .logo {
     font-size: 300%;
     font-weight: 400;
-    color: #16a085;
+    color: #48E5C2;
     display: block; }
 
   .menu {

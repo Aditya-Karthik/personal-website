@@ -80,21 +80,35 @@ Research Intern (Thermal Hydraulics Division) | Guide: Dr. [Kumaresan Natesan](h
 
 <h2><a>Publications</a></h2>
 
+<p style="line-height: 1.5; text-align: justify">
 Saravanakumar, A. K., C. Foucart, C. Mirabito, P. J. Haley Jr., and P. F. J. Lermusiaux (2025). “An Adaptive High-Order Locally-Non- Hydrostatic Ocean Model”. To be submitted to <i>Ocean Modeling</i>
+</p>
 
+<p style="line-height: 1.5; text-align: justify">
 Saravanakumar, A. K. (2023). “Towards Coupled Nonhydrostatic-Hydrostatic Hybridizable Discontinuous Galerkin Method”. <i>SM thesis</i> Massachusetts Institute of Technology, Computational Science and Engineering.
+</p>
 
+<p style="line-height: 1.5; text-align: justify">
 Saravanakumar, A. K., K. Supradeepan, et al. (2021). “A numerical study on flapping dynamics of a flexible two-layered plate in a uniform flow”. <i>Physics of Fluids</i> 33.1, p. 017108. ISSN: 1070-6631. DOI: 10.1063/5.0033049.
+</p>
 
+<p style="line-height: 1.5; text-align: justify">
 Vishwanath, N., A. K. Saravanakumar, et al. (2022). “3D Numerical investigation of a rounded corner square cylinder for supercritical flows”. <i>Wind and Structures</i> 35.1, pp. 55–66. ISSN: 1226-6116. DOI: 10.12989/was.2022.35.1.055.
+</p>
 
+<p style="line-height: 1.5; text-align: justify">
 Brahmini Priya, P. V., A. K. Saravanakumar, et al. (2023). “Numerical Analysis of Two-Degrees of Freedom Vortex-Induced Vibra- tions of an Elastically Mounted Circular Cylinder Placed Very Close to a Wall”. <i>Sub-Judice</i> DOI: 10.2139/ssrn.4470199.
+</p>
 
 <h2><a>Presentations</a></h2>
 
+<p style="line-height: 1.5; text-align: justify">
 Saravanakumar, A. K., C. Foucart, C. Mirabito, P. J. Haley, and P. F. Lermusiaux (2024a). “Adaptive Nonhydrostatic-Hydrostatic Hybridizable Discontinuous Galerkin Ocean Solver”. <i>Ocean Sciences Meeting</i>, New Orleans, Louisiana, 2024. AGU.
+</p>
 
+<p style="line-height: 1.5; text-align: justify">
 Saravanakumar, A. K., C. Foucart, C. Mirabito, P. J. Haley, and P. F. Lermusiaux (2024b). “An Adaptive High Order Locally-Nonhydrostatic Ocean Solver”. <i>Mathematics of Planet Earth</i>, Portland, Oregan, 2024. SIAM.
+</p>
 
 <h2><a>Awards</a></h2>
 
