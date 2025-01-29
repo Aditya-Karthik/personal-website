@@ -44,7 +44,7 @@ subtitle:
 <p style="line-height: 1.5;">Major : Scientific Computing and Mechanical Engineering<span style="float: right; "><i>GPA: 5.00/5.00</i></span><br>Minor : Machine Learning</p>
  
 <span class="boldtext"> Master of Science (SM), Massachusetts Institute of Technology </span> <span style="float: right; "><span class="boldtext">Sep 2021 - May 2023</span></span>  
-Major : Computatinoal Science and Engineering<span style="float: right; ">*GPA: 5.00/5.00*</span>  
+Major : Computational Science and Engineering<span style="float: right; ">*GPA: 5.00/5.00*</span>  
 
 <span class="boldtext">Bachelor of Engineering (BE), Birla Institute of Technology and Science, Pilani</span><span style="float: right; "><span class="boldtext">Sep 2017 - May 2021</span></span>  
 Major : Mechanical Engineering<span style="float: right; ">*GPA: 9.78/10.00*</span>  
